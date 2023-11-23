@@ -5,8 +5,8 @@
 ## Project Contents
 * Gradle dependency and plugin setup: [build.gradle](build.gradle)
 * Allure JUnit 5 (Annotations) example: [CalculatorTests.java](src/test/java/com/enisspahi/example/service/CalculatorTests.java)
-* Allure JUnit 5 (Runtime API) example: []()
-* Allure Rest Assured example: [CalculatorTests.java](src/test/java/com/enisspahi/example/ApplicationTests.java)
+* Allure JUnit 5 (Runtime API) example: [CalculatorTuntimeAPITests.java](src/test/java/com/enisspahi/example/service/CalculatorRuntimeAPITests.java)
+* Allure Rest Assured example: [ApplicationTests.java](src/test/java/com/enisspahi/example/ApplicationTests.java)
 * Allure AssertJ Example
 
 ## How to try
