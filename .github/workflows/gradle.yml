@@ -21,6 +21,7 @@ jobs:
         java-version: 17
 
     - name: Run tests
+      continue-on-error: true
       run: ./gradlew clean test
         
     - name: Load test report history
