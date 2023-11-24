@@ -1,7 +1,6 @@
 package com.enisspahi.example.service;
 
 import io.qameta.allure.*;
-import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
@@ -16,7 +15,7 @@ public class CalculatorTests {
     @ParameterizedTest
     @CsvSource({
             "1.0, 1.0, 2.0, 0.0, 1.0, 1.0",
-            "2.0, 1.0, 3.0, 1.0, 2.0, 3.0"
+            "2.0, 1.0, 3.0, 1.0, 2.0, 2.0"
     })
     @DisplayName("Calculates Correctly")
     @Feature("Calculator")
