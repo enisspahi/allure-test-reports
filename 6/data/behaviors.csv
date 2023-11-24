@@ -1,0 +1,7 @@
+"Epic","Feature","Story","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
+"","Calculator API","Calculator API: Minus endpoint","0","0","2","0","0"
+"","Calculator API","Calculator API: Multiply endpoint","0","0","2","0","0"
+"","Calculator","Calculator: All operations","1","0","1","0","0"
+"","Calculator with Runtime API","Calculator: All operations","0","0","2","0","0"
+"","Calculator API","Calculator API: Divide endpoint","0","0","2","0","0"
+"","Calculator API","Calculator API: Plus endpoint","0","0","2","0","0"
