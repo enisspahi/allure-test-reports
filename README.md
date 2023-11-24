@@ -13,7 +13,7 @@
 ## How to try
 * Run tests
 ````
-./gradlew test
+./gradlew clean test
 ````
 * Observe native gradle report `build/reports/index.html`
 * Generate Allure Report
