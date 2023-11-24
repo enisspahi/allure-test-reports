@@ -8,6 +8,7 @@
 * Allure JUnit 5 (Runtime API) example: [CalculatorTuntimeAPITests.java](src/test/java/com/enisspahi/example/service/CalculatorRuntimeAPITests.java)
 * Allure Rest Assured example: [ApplicationTests.java](src/test/java/com/enisspahi/example/ApplicationTests.java)
 * Allure AssertJ Example
+* GitHub Actions pipeline: [pipeline](.github/workflows/gradle.yml)
 
 ## How to try
 * Run tests
